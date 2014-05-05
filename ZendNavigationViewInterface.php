@@ -5,6 +5,7 @@
  *
  * @license New BSD License @see LICENSE.md
  * @author Janos Pasztor <j.pasztor@ixolit.com>
+ * @copyright Copyright (c) 2014 Ixolit New Media Development GmbH. All Rights Reserved
  */
 interface Ixo_ZendNavigationViewInterface extends Zend_View_Interface {
 	/**
