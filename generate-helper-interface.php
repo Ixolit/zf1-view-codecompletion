@@ -7,6 +7,12 @@
  *  php generate-helper-interface.php path/to/helpers/ ViewInterfaceName
  *
  * Attention! You have to edit this script to define any constants that are needed for your application!
+ *
+ * Why did we not add more flexible configuration? Chances are you are going to use this exactly once. You are not using
+ * this all the time.
+ *
+ * @license New BSD License @see LICENSE.md
+ * @author Janos Pasztor <j.pasztor@ixolit.com>
  */
 
 // Edit this configuration

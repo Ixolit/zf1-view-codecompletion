@@ -4,6 +4,7 @@
  * Mock interface to enable code completion for Zend view helpers.
  *
  * @license New BSD License @see LICENSE.md
+ * @author Janos Pasztor <j.pasztor@ixolit.com>
  */
 interface Ixo_ZendViewInterface extends Zend_View_Interface, Ixo_ZendNavigationViewInterface {
 	/**
